@@ -15,5 +15,5 @@ class Circle
 end
 
 def circle_area(circle)
-  Math::PI*(circle.radius**2)
+  Math::PI*circle.radius**2
 end
